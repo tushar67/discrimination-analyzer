@@ -19,7 +19,7 @@ An AI-powered discrimination analyzer that detects and analyzes biased or discri
 - Pandas
 - NumPy
 - Scikit-learn
-- Streamlit / Flask *(if used)*
+- Streamlit / Flask 
 
 ## 📂 Project Workflow
 
@@ -38,7 +38,7 @@ This project was built to help identify harmful language patterns, encourage inc
 - **Name:** Tushar Randhir Sinha  
 - **GitHub:** https://github.com/tushar67
 - **Linkedin:** https://www.linkedin.com/in/tushar-sinha-a103601b3/
-
+- **Website:** tushardata.me
 ---
 
 ⭐ Contributions and feedback are welcome!
